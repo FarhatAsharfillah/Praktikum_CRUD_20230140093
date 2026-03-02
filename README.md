@@ -85,7 +85,7 @@ Respon Sukses (200):
 
 ### 4. ➕ Delete User  (DELETE)
 **Endpoint:** `http://localhost:8080/api/users/0e467055-6bca-4fe4-9f18-70d74623e3d8`  
-**Fungsi:** Mengedit data user baru.
+**Fungsi:** Menghapus data user.
 
 **Request Body (JSON):*
 
@@ -101,3 +101,5 @@ Respon Sukses (200):
     "status": "success delete user with id 4be0d21d-87cf-4922-8c25-2c635a091511"
 }
 ```
+<img width="1918" height="967" alt="Cuplikan layar 2026-03-02 114011" src="https://github.com/user-attachments/assets/aa18ecab-f60b-4fde-81bc-899de522b91b" />
+
