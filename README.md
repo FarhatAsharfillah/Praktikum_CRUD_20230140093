@@ -100,3 +100,4 @@ Respon Sukses (200):
 {
     "status": "success delete user with id 4be0d21d-87cf-4922-8c25-2c635a091511"
 }
+```
